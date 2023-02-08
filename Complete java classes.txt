@@ -3,3 +3,5 @@ i am from addmin dept
 i am from b138
 i am from Account dept
 i am new faculty
+i am new student
+
